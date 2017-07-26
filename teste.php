@@ -1,5 +1,4 @@
 <?php
-$nome = "Pedro de Almeira";
-echo $nome;
-
+  $nome = "Pedro de Almeira";
+  echo $nome;
 ?>
