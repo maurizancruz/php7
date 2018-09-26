@@ -3,5 +3,5 @@
 	//echo $nome;
 	var_dump($nome);
 	
-	$carro = "Azul";
+	$carro = "Vermelho";
  ?>
