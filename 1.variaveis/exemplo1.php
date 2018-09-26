@@ -6,4 +6,5 @@
 	$carro = "Azul";
 
 	$idade =35;
+
  ?>
