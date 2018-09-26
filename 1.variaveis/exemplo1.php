@@ -2,7 +2,8 @@
 	$nome = "Maurizan Cruz";
 	//echo $nome;
 	var_dump($nome);
+	
+	$carro = "Azul";
 
-	$cidade = "Santa Maria da Vitória";
-	echo $cidade;
+	$idade =35;
  ?>
