@@ -4,4 +4,5 @@
 	var_dump($nome);
 	
 	$carro = "Vermelho";
+	$cidade = "Brasília";
  ?>
